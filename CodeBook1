@@ -1,0 +1,8 @@
+# CodeBook for the PM2.5 Emission Data
+## Introduction
+This codebook accompanies the analysis scripts and describes the variables, the data, and any transformations or work performed to clean up the data.
+## Study Design
+Data was sourced from the National Emissions Inventory (NEI) and processed to analyze PM2.5 emissions changes over the period from 1999 to 2008.
+## Variables
+- `fips`: A string representing the U.S. county code.
+- `SCC`: The source of emissions, categorized by a digit string.
